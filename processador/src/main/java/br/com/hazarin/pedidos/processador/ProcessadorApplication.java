@@ -1,13 +1,13 @@
-package br.com.hazarin.pedidos.notificacao.notificacao;
+package br.com.hazarin.pedidos.processador;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NotificacaoApplication {
+public class ProcessadorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NotificacaoApplication.class, args);
+		SpringApplication.run(ProcessadorApplication.class, args);
 	}
 
 }

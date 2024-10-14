@@ -1,10 +1,10 @@
-package br.com.hazarin.pedidos.notificacao.notificacao;
+package br.com.hazarin.pedidos.processador;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NotificacaoApplicationTests {
+class ProcessadorApplicationTests {
 
 	@Test
 	void contextLoads() {
